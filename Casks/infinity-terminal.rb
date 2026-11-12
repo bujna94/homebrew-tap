@@ -1,6 +1,6 @@
 cask "infinity-terminal" do
-  version "1.0.32"
-  sha256 "4727cf15a57297283b2357d806318517bc7315307545ddf4039b206359aaa4a7"
+  version "1.0.33"
+  sha256 "254d00e77b4e6c8d36c89c6383f5d18f3b817b9ae6299722809e771ffc7edd0d"
 
   url "https://github.com/bujna94/infinityTerminal/releases/download/v#{version}/InfinityTerminal-#{version}.dmg",
       verified: "github.com/bujna94/infinityTerminal/"
